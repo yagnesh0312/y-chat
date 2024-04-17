@@ -1,0 +1,16 @@
+
+                                // if (currentMsg.sender == widget.targetUser.uid! &&
+                                //     index != datasnap.size - 1 &&
+                                //     datasnap.docs[index + 1]['sender'] == widget.targetUser.uid) {
+                                //   tl = Radius.circular(radius);
+                                // } else if (currentMsg.sender != widget.targetUser.uid) {
+                                //   tl = Radius.circular(radius);
+                                // }
+
+                                // if (currentMsg.sender == widget.userModel.uid! &&
+                                //     index != datasnap.size - 1 &&
+                                //     datasnap.docs[index + 1]['sender'] == widget.userModel.uid) {
+                                //   tr = Radius.circular(radius);
+                                // } else if (currentMsg.sender != widget.userModel.uid) {
+                                //   tr = Radius.circular(radius);
+                                // }
