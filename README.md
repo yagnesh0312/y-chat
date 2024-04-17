@@ -23,6 +23,13 @@
 Are you tired of cumbersome messaging apps that clutter your screen and complicate your conversations? Say hello to Y Chat, where simplicity meets sophistication, revolutionizing the way you connect with your friends, family, and colleagues.
 
 ## 🏁 Screenshots <a name = "getting_started"></a>
+<img class="i" width=200px src="https://github.com/yagnesh0312/y-chat/blob/main/images/a.jpg?raw=true" alt="Project logo">
+<img class="i" width=200px src="https://github.com/yagnesh0312/y-chat/blob/main/images/b.jpg?raw=true" alt="Project logo">
+<img class="i" width=200px src="https://github.com/yagnesh0312/y-chat/blob/main/images/c.jpg?raw=true" alt="Project logo">
+<img class="i" width=200px src="https://github.com/yagnesh0312/y-chat/blob/main/images/d.jpg?raw=true" alt="Project logo">
+<img class="i" width=200px src="https://github.com/yagnesh0312/y-chat/blob/main/images/e.jpg?raw=true" alt="Project logo">
+<img class="i" width=200px src="https://github.com/yagnesh0312/y-chat/blob/main/images/f.jpg?raw=true" alt="Project logo">
+<img class="i" width=200px src="https://github.com/yagnesh0312/y-chat/blob/main/images/gg.jpg?raw=true" alt="Project logo">
 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
